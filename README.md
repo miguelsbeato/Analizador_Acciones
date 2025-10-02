@@ -21,7 +21,7 @@ Este proyecto busca proporcionar una solución abierta y gratuita que permita a 
 
 **Fase 1: Configuración del entorno y repositorio**  
 - Crear el repositorio en GitHub con la estructura básica del proyecto.  
-- Configurar el entorno de desarrollo en Python e instalar las dependencias principales (yfinance, pandas, matplotlib/plotly, scikit-learn u otros frameworks de machine learning).  
+- Configurar el entorno de desarrollo en Python e instalar las dependencias principales.
 
 **Fase 2: Adquisición y preprocesamiento de datos**  
 - Implementar el módulo de descarga de datos históricos de acciones.  
@@ -32,12 +32,8 @@ Este proyecto busca proporcionar una solución abierta y gratuita que permita a 
 - Incluir la opción de comparar distintas acciones en un mismo gráfico para detectar tendencias relativas.  
 
 **Fase 4: Implementación del módulo de predicción**  
-- Diseñar y entrenar un modelo de machine learning (por ejemplo ARIMA, LSTM u otro) para estimar precios futuros.  
+- Diseñar y entrenar un modelo de machine learning para estimar precios futuros.  
 - Integrar las predicciones en la visualización para mostrar tendencias a corto o medio plazo.  
-
-**Fase 5: Documentación y pruebas finales**  
-- Redactar la documentación de uso y las guías de instalación.  
-- Realizar pruebas para verificar la correcta obtención de datos, visualización y predicción de precios.  
 
 ---
 
